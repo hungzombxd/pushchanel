@@ -1,0 +1,10 @@
+{
+    "name":"PushChannel",
+    "version":"0.0.1",
+    "private":false,
+    "dependencies":{
+        "pomelo":"^1.1.5",
+        "crc": "^3.2.1"
+    }
+}
+
